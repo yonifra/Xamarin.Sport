@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\AndHUD\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Connectivity.Plugin\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\GCM.Client\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\ImageCircle.Forms.Plugin.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\ModernHttpClient\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Version.Plugin\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\AndHUD\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Connectivity.Plugin\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\GCM.Client\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\ImageCircle.Forms.Plugin.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\ModernHttpClient\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Version.Plugin\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\AndHUD.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Connectivity.Plugin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\GCM.Client.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\ImageCircle.Forms.Plugin.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\ModernHttpClient.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Version.Plugin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.Android\obj\Debug\__library_projects__\Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,9 @@
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\bin\Debug\Sport.UITests.dll
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\bin\Debug\Sport.UITests.pdb
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\bin\Debug\nunit.framework.dll
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\bin\Debug\nunit.framework.xml
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\obj\Debug\Sport.UITests.csprojResolveAssemblyReference.cache
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\obj\Debug\Sport.UITests.dll
+C:\Users\JonathanF.AVT_SERVER\Downloads\Sport-master\Sport.UITests\obj\Debug\Sport.UITests.pdb
